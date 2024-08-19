@@ -1,0 +1,31 @@
+h1{
+    color: orchid;
+    text-align: center;
+ }
+ 
+ table,th,td{
+     border: 1px solid black;
+ }
+ 
+ tr:nth-child(1){
+     color: black;
+     background-color: rgb(105, 121, 136);
+     text-align: center;
+ }
+ 
+ tr{
+     color: black;
+     background-color: rgb(185, 161, 185);
+ }
+ 
+ table.hidden{
+     display: none;
+ }
+ 
+ img{
+     width: 200px;
+     height: 300px;
+     border-radius: 5px;
+ }
+
+ 
